@@ -2,7 +2,7 @@
   <img src="https://github.com/SoumyaSagnik/Wallpapers/blob/main/Images/CircuitBoard.gif?raw=true" width="100%" alt="Circuit Board Animation">
 </div>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7B4,100:2E9EF7&height=180&section=header&text=Ahmed%20ElHawary&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Backend%20Developer%20|%20API%20Architect&descAlignY=60&descAlign=62" width="100%" alt="Header Banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7B4,100:2E9EF7&height=180&section=header&text=Ahmed%20ElHawary&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Backend%20Developer%20&descAlignY=60&descAlign=50" width="100%" alt="Header Banner">
 </div>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 <div align="center">
