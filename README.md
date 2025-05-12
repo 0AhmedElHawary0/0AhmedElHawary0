@@ -74,7 +74,9 @@ Backend Developer from Mansoura, Egypt with expertise in PHP, Laravel, and .NET 
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=0AhmedElHawary0&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0AhmedElHawary0&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" alt="GitHub Streak" />
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0AhmedElHawary0&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0AhmedElHawary0&theme=radical&hide_border=true&bg_color=0D1117&layout=compact" alt="Top Languages" />
