@@ -69,18 +69,20 @@ Backend Developer from Mansoura, Egypt with expertise in PHP, Laravel, and .NET 
 </div>
 
 📊 GitHub Stats
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=0AhmedElHawary0&theme=radical&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 <div align="center">
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0AhmedElHawary0&theme=react-dark&bg_color=0D1117&hide_border=true&line=00F7B4&point=2E9EF7&color=FFFFFF" width="100%" alt="GitHub Activity Graph">
+</div>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=0AhmedElHawary0&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0AhmedElHawary0&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0AhmedElHawary0&theme=radical&hide_border=true&bg_color=0D1117&layout=compact&langs_count=8&count_private=true&cache_seconds=1800&size_weight=0.5&count_weight=0.5" alt="Top Languages" style="margin: 10px;" />
 </div>
+
+
 
 🏆 Featured Projects
 <div align="center">
