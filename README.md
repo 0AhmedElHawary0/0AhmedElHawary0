@@ -79,7 +79,7 @@ Backend Developer from Mansoura, Egypt with expertise in PHP, Laravel, and .NET 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=0AhmedElHawary0&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0AhmedElHawary0&theme=radical&hide_border=true&bg_color=0D1117&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0AhmedElHawary0&theme=radical&hide_border=true&bg_color=0D1117&layout=compact&langs_count=8&count_private=true&cache_seconds=1800&size_weight=0.5&count_weight=0.5" alt="Top Languages" style="margin: 10px;" />
 </div>
 
 🏆 Featured Projects
@@ -101,7 +101,7 @@ Backend Developer from Mansoura, Egypt with expertise in PHP, Laravel, and .NET 
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=0AhmedElHawary0&label=Profile%20views&color=00f7b4&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=0AhmedElHawary0&label=Profile+views&color=00f7b4&style=for-the-badge&abbreviated=true" alt="Profile views" style="margin: 10px;" />
 </div>
 <div align="center">
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
