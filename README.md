@@ -27,7 +27,7 @@ Backend Developer from Mansoura, Egypt with expertise in PHP, Laravel, and .NET 
   <a href="mailto:ahmed.ashraf1823@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius: 50%;" alt="Email" />
   </a>
-  <a href="tel:+20153301303">
+  <a href="tel:+201553301303">
     <img src="https://img.shields.io/badge/Phone-+20_153301303-green?style=for-the-badge&logo=phone&logoColor=white" style="border-radius: 50%;" alt="Phone"/>
   </a>
 </div>
