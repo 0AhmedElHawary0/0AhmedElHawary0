@@ -71,9 +71,6 @@ Backend Developer from Mansoura, Egypt with expertise in PHP, Laravel, and .NET 
 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=0AhmedElHawary0&theme=radical&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
-<div align="center">
   <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=0AhmedElHawary0&theme=react-dark&bg_color=0D1117&hide_border=true&line=00F7B4&point=2E9EF7&color=FFFFFF" width="100%" alt="GitHub Activity Graph">
 </div>
