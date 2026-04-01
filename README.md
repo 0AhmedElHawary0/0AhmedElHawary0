@@ -77,37 +77,4 @@ Backend Developer from Mansoura, Egypt with expertise in PHP, Laravel, and .NET 
   <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=0AhmedElHawary0&theme=react-dark&bg_color=0D1117&hide_border=true&line=00F7B4&point=2E9EF7&color=FFFFFF" width="100%" alt="GitHub Activity Graph">
 </div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0AhmedElHawary0&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0AhmedElHawary0&theme=radical&hide_border=true&bg_color=0D1117&layout=compact&langs_count=8&count_private=true&cache_seconds=1800&size_weight=0.5&count_weight=0.5" alt="Top Languages" style="margin: 10px;" />
-</div>
 
-
-
-🏆 Featured Projects
-<div align="center">
-  <a href="https://github.com/0AhmedElHawary0/OnTheRun">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=0AhmedElHawary0&repo=OnTheRun&theme=radical&hide_border=true&bg_color=0D1117" />
-  </a>
-  <a href="https://github.com/0AhmedElHawary0/KanbanHarbor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=0AhmedElHawary0&repo=KanbanHarbor&theme=radical&hide_border=true&bg_color=0D1117" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/0AhmedElHawary0/G3-Store">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=0AhmedElHawary0&repo=G3-Store&theme=radical&hide_border=true&bg_color=0D1117" />
-  </a>
-  <a href="https://github.com/0AhmedElHawary0/Diabetia">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=0AhmedElHawary0&repo=Diabetia&theme=radical&hide_border=true&bg_color=0D1117" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=0AhmedElHawary0&label=Profile+views&color=00f7b4&style=for-the-badge&abbreviated=true" alt="Profile views" style="margin: 10px;" />
-</div>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-</div>
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&pause=1000&color=00F7B4&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Happy+Coding!" alt="Thanks for visiting" />
-</div>
